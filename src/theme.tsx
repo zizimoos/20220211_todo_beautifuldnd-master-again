@@ -6,6 +6,10 @@ export const DarkTheme: DefaultTheme = {
     subjectBoxColor: "crimson",
     boardsColor: "indigo",
     boardColor: "moccasin",
+    cardCoverColor: "maroon",
+    cardCoverColor_02: "dodgerblue",
+    draggingCardColor: "steelBlue",
     cardColor: "deeppink",
+    wasteColor: "tomato",
   },
 };
